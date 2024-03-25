@@ -1,6 +1,6 @@
 # weather_app
 
-A new Flutter weather application which fetch weather related data from open weather api
+A new Flutter weather application which fetch weather related data from open weather api.
 
 ## Getting Started
 
